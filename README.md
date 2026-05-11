@@ -56,7 +56,7 @@ O repositório para esta atividade já existe. O link para o repositório é:
 
 `https://github.com/desenvolvimento-web-unifametro/aps-desenvolvimento-web-manha.git`
 
-Cada dupla deverá **enviar seu arquivo `.js`** para a `branch main` deste repositório.
+Cada dupla deverá **enviar seu arquivo `.js`** para a `branch main` do FORK.
 
 
 
