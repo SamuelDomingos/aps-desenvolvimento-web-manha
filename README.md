@@ -163,10 +163,15 @@ Para garantir que seu arquivo seja enviado para o local correto, siga exatamente
 
 ## ABAIXO ESTA OS METODOS QUE FORAM SORTEADOS PARA OS ALUNOS (DUPLAS) QUE ESTAVAM EM SALA DE AULA:
 
-| ALUNOS (DUPLAS OU SOLO)                                     |  METODO/FUNCAO  |
-| ----------------------------------------------------------- |:---------------:|
-|                                                             |                 |
-|                                                             |                 |
+| ALUNOS (DUPLAS OU SOLO)                                                    |  METODO/FUNCAO  |
+| -------------------------------------------------------------------------- |:----------------------:|
+| iasmim lima, igor lima -                                                   | .findIndex()           |
+| Geisa e Sarah                                                              | Number.parseFloat()    |
+| Caio Paula de Oliveira Vasconcelos - João Vitor Rodrigues de Oliveira      | Math.floor()           |
+| Francisco Hilter e Samuel                                                  | .splice()              |
+| Icaro e Vitor de Carvalho                                                  | .toFixed()             |
+| Breno Oliveira, Felipe Ribeiro                                             | .map()                 |
+|                                                                            |                        |
 
 
 
