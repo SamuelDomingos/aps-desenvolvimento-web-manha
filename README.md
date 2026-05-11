@@ -120,17 +120,17 @@ Para garantir que seu arquivo seja enviado para o local correto, siga exatamente
     * Com a pasta `ProjetoAPS` aberta no VS Code, vá ao menu superior e clique em "Terminal" > "Novo Terminal".
     * O terminal abrirá automaticamente no caminho correto (ex: `C:\...\Documentos\ProjetoAPS>`).
 
-4.  **Clone o Repositório Dentro da Pasta**
-    Agora, no terminal que acabou de abrir, digite o comando para clonar (baixar) o repositório da turma:
+4.  **Crie um FORK do repositorio o Repositório Dentro da Pasta**
+    Agora, no terminal que acabou de abrir, digite o comando para clonar (baixar) o repositório do FORK que você criou:
     ```bash
-    git clone [https://github.com/desenvolvimento-web-unifametro/prova-aps-desenvolvimento-web.git](https://github.com/desenvolvimento-web-unifametro/prova-aps-desenvolvimento-web.git)
+    git clone [https://github.com/desenvolvimento-web-unifametro/prova-aps-desenvolvimento-web-manha-fork-aluno-fulano.git](https://github.com/desenvolvimento-web-unifametro/prova-aps-desenvolvimento-web-manha-fork-aluno-fulano.git)
     ```
 
 5.  **Entre na Pasta que foi Clonada (Passo Crítico!)**
-    O Git acabou de criar uma nova subpasta chamada `prova-aps-desenvolvimento-web`. Você precisa entrar nela.
+    O Git acabou de criar uma nova subpasta chamada `prova-aps-desenvolvimento-web-manha-fork-aluno-fulano`. Você precisa entrar nela.
     Digite no terminal:
     ```bash
-    cd prova-aps-desenvolvimento-web
+    cd prova-aps-desenvolvimento-web-manha-fork-aluno-fulano
     ```
     **Atenção:** Todos os próximos comandos (`add`, `commit`, `push`) devem ser executados DE DENTRO desta pasta.
 
@@ -156,7 +156,7 @@ Para garantir que seu arquivo seja enviado para o local correto, siga exatamente
     ```
 
 10. **Verifique se seu arquivo esta no repositório!**
-    Abra o link do repositório no seu navegador e confirme se o seu arquivo `.js` apareceu lá com o conteúdo correto.
+    Abra o link do repositório no seu navegador e confirme se o seu arquivo `.js` apareceu lá no seu FORK com o conteúdo correto.
 
 
 ## 🛠️ Alunos que faltaram no dia do SORTEIO EM SALA podem escolher qualquer um dos metodos que estao na lista, PODENDO ESCOLHER APRESENTAR EM DUPLA OU FAZER SOZINHO (EXCECAO PARA OS ALUNOS QUE FALTARAM O SORTEIO)
@@ -173,4 +173,4 @@ Para garantir que seu arquivo seja enviado para o local correto, siga exatamente
 ## 🛠️ QUALQUER DUVIDA ENTRAR EM CONTATO COM A PROFESSORA ROSANA PELO ZAP (85) 99413-2366
 
 ** Para conseguir enviar seu arquivo para o repositorio da aps (fazer o push, enviando seu arquivo) o aluno deverá:
-1 - Fazer um FORK do repositorio, fazer o codigo, enviar e depois abrir um PR (Pull Request)
+1 - Fazer um FORK do repositorio, fazer o codigo, enviar na branch main
